@@ -1,0 +1,11 @@
+{
+  "name": "beansjeans",
+  "version": "1.0.0",
+  "description": "Small consignment shop application for my beautiful fiance",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
